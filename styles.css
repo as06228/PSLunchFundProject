@@ -36,13 +36,14 @@ nav {
   background-color: grey;
   padding-left: 60px;
   font-size: 0;
-
+  font-family: cursive;
 }
-li {
+
+nav li {
   color: Black;
   display: inline-block;
-  /*background-color: red;*/
-  font-size: 16px
+  font-size: 16px;
+  font-family: cu
 }
 a{
   padding: 30px;
@@ -103,5 +104,12 @@ section p {
   float: right;
   margin-left: 20px;
   border-radius: 10px solid #Black;
+}
 
+.title {
+
+}
+
+.Phone {
+  font-style: oblique;
 }
